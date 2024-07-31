@@ -29,3 +29,6 @@
 		src: url('fonts/FuturaLTProHeavy.otf');
 	}
 }
+html {
+	scroll-behavior: smooth;
+}
